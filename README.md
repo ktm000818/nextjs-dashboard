@@ -1,5 +1,31 @@
-## Next.js App Router Course - Starter
+Next.js 14 - app router ver.
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+this project is that covers below subjects.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+CSS Styling
+
+Optimizing Fonts and Images
+
+Creating Layouts and Pages
+
+Navigating Between Pages
+
+Setting Up PostgreSQL on vercel
+
+Fetching Data
+
+Static / Dynamic Rendering
+
+Streaming
+
+Adding Search and Pagination
+
+Mutating Data
+
+Handling Errors
+
+Improving Accessibility
+
+Adding Authentication
+
+Adding Metadata
