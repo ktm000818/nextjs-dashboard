@@ -1,6 +1,7 @@
-Next.js 14 - app router ver.
+Next.js 14 - app router ver.  
+<a href="https://nextjs.org/learn/dashboard-app">https://nextjs.org/learn/dashboard-app<a>  
 
-this project is that covers below subjects.
+  아래 주제에 대해 공부한 내용을 기록합니다.
 
 ## CSS Styling
  - 전역 css를 추가하기 위해선 root 경로의 layout.tsx에 스타일을 추가.
